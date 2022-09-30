@@ -6,4 +6,3 @@ Feature: To Create Student in REST API Testing
     Then I receive valid Response for new student added
 
     
-    
